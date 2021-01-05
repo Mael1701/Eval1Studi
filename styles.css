@@ -1,4 +1,4 @@
-@charset "UTF-8";
+
 /* Page 1*/
 .navbar-nav {
   display: -ms-flexbox;
@@ -17,6 +17,8 @@
   position: relative;
 }
 
+
+
 html {
   height: 100%;
 }
@@ -27,8 +29,9 @@ body {
   padding: 0;
 }
 main{
-    background-image: url(images/image\ de\ fond\ site.jpg);
+    background-image: url(../../images/image\ de\ fond\ site.jpg);
     background-color: black;
+    
   }
 
 .h1p1 {
